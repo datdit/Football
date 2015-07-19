@@ -1,0 +1,47 @@
+.pic_person_area {
+    background: #ffffff;
+    padding: 2px;
+    margin: 5px 0px 5px -5px;
+    width: 204px;
+    height: 34px;
+}
+.pic_person {
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    /* border: 1px solid #000; */
+}
+
+.pic_person_area  a:hover {
+    border: 1px solid #cccccc;
+}
+
+
+
+//  ============ For Count down Timer
+.visibleDiv {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+.visibleDiv, #topRight {
+    position: fixed;
+    width: 150px;
+    height: 40px;
+    border: solid 1px #000;
+    vertical-align: middle;
+    background: #F00;
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    font-family: Tahoma;
+    padding: 20px 0 0 0;
+    box-shadow: 3px 3px 3px #888888;
+}
+
+#topRight {
+    top: 10px;
+    right: 10px;
+}
+// =======================
